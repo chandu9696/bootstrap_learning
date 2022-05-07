@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+   
+   
+    background-color: aqua!important;
+    width: 100vw!important;
+   
+   
+
+}
+.col-12
+{
+    padding-left: 0!important;
+    
+}
+::-webkit-scrollbar
+{
+    display: none;
+}
+footer
+{
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
